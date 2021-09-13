@@ -7,4 +7,10 @@ ul {
   list-style: none;
 }
 
+body {
+  margin-top: 100px;
+  margin-right: 95px;
+  margin-left: 50px;
 
+  background-color: #aae8ee;
+}

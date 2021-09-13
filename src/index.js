@@ -11,7 +11,9 @@ function App() {
       <WeatherSearch />
       <footer>
         {" "}
-        Coded by Stephanie Barron using React, open-sourced on GitHub, and
+        <br>
+        </br>
+        Coded by Stephanie Barron using React, open-sourced on <a href="https://github.com/sbarron95/weather-app-2"> GitHub</a>, and
         hosted on Netlify
       </footer>
     </div>
